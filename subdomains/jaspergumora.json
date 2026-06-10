@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-pinoy-dev/ecosystem/main/packages/schemas/schema/v1/subdomain.schema.json",
+  "subdomain": "jaspergumora",
+  "owner": {
+    "github": "Vantalim12"
+  },
+  "records": {
+    "CNAME": {
+      "value": "c388443d969dd631.vercel-dns-017.com."
+    },
+    "TXT": {
+      "value": "vc-domain-verify=jaspergumora.is-pinoy.dev,cf2f9e66281a7055fa84",
+      "provider": "vercel"
+    }
+  }
+}
